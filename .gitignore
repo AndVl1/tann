@@ -1,5 +1,6 @@
 __pycache__
 /.vscode
+/.idea
 mnist.pkl
 train-images-idx3-ubyte.gz
 t10k-images-idx3-ubyte.gz
